@@ -1,4 +1,4 @@
 webtemplate
 ===========
 
-Simple web request controller framework
+Simple request controller framework
