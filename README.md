@@ -1,4 +1,4 @@
 webtemplate
 ===========
 
-Simple Java web container framework
+Skeleton web container framework written in Java; graciously provided by https://github.com/will-clark/
